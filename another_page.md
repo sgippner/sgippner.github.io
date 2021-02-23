@@ -1,3 +1,7 @@
+layout: page
+title: "Another Page"
+permalink: /another_page/
+
 <!DOCTYPE html>
 <html>
 <head>
