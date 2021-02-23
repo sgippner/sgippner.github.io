@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Another Page"
-permalink: /another_page/
+permalink: /another_page.md/
+---
 
 <!DOCTYPE html>
 <html>
