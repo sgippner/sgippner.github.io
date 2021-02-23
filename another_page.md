@@ -1,17 +1,5 @@
 ---
-layout: page
-title: "Another Page"
-permalink: /another_page.md/
+layout: "page"
+title: Another Page
 ---
-
-<!DOCTYPE html>
-<html>
-<head>
-<title>Another Page</title>
-</head>
-<body>
-
-<h1>This is another page</h1>
-
-</body>
-</html>
+This is another page!
